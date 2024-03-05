@@ -1,0 +1,6 @@
+python-telegram-bot  # ==20.8
+selenium==4.16.0
+googleapi
+
+#celery
+#rebbitmq
